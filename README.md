@@ -198,6 +198,3 @@ src/
 5. **🧪 Test thoroughly**
 6. **📤 Submit a pull request**
 
-## 📄 License
-
-This project is licensed under the **MIT License**.# storybook
