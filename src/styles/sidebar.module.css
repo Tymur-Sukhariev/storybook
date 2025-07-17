@@ -1,0 +1,74 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 10;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 280px;
+  background-color: #fff;
+  box-shadow: -2px 0 8px rgba(0, 0, 0, 0.2);
+  z-index: 11;
+  padding: 1rem;
+}
+
+.openSidebarBtn {
+  background-color: #9225eb;
+  color: white;
+  font-size: 1rem;
+  padding: 0.3rem 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition:
+    background-color 0.2s ease,
+    transform 0.1s ease;
+}
+
+.openSidebarBtn:hover {
+  background-color: #a658e6;
+}
+
+.menu,
+.submenu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menuItem {
+  padding: 0.5rem 0.75rem;
+  font-weight: 500;
+  color: #333;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menuItem:hover {
+  background-color: #f4f4f4;
+}
+
+.submenu {
+  margin-top: 0.5rem;
+  padding-left: 1rem;
+  border-left: 2px solid #eee;
+}
+
+.arrow {
+  font-size: 0.8rem;
+  color: #888;
+  margin-left: 0.5rem;
+}

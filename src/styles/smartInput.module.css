@@ -1,0 +1,34 @@
+.inputWrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.input {
+  padding-right: 2rem; /* make space for the eye icon */
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.eye {
+  position: absolute;
+  right: 0.5rem;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.clearButton {
+  margin-left: 0.5rem;
+  background-color: transparent;
+  border: none;
+  color: #888;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.25rem;
+  transition: color 0.2s ease;
+}
+
+.clearButton:hover {
+  color: #000;
+}
