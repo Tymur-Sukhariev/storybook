@@ -12,7 +12,7 @@ A modern, reusable component library built with React, TypeScript, and Storybook
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Tymur-Sukhariev/storybook
 cd component-library
 ```
 
