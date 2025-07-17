@@ -13,7 +13,7 @@ A modern, reusable component library built with React, TypeScript, and Storybook
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/Tymur-Sukhariev/storybook
-cd component-library
+cd storybook
 ```
 
 2. **Install dependencies:**
