@@ -59,9 +59,15 @@ A versatile input component that supports both text and password fields with add
 * `clearable`: `boolean` - Whether to show clear button
 
 **📸 Screenshots:**
-* **Screenshot 3**: Password input with hidden text and eye icon
-* **Screenshot 4**: Password input with visible text 
-* **Screenshot 5**: Text input with clearable functionality
+Password input with hidden text and eye icon:
+<img width="1280" height="564" alt="1" src="https://github.com/user-attachments/assets/f6d063b3-0500-4327-b600-80edf476a4a5" />
+
+Password input with visible text :
+<img width="1280" height="564" alt="2" src="https://github.com/user-attachments/assets/c1a28ec0-a4b5-4295-9357-bdbdc332385b" />
+
+Text input with clearable functionality:
+<img width="1280" height="800" alt="3" src="https://github.com/user-attachments/assets/7fa6299c-c58f-41da-b2ca-155198a727b8" />
+
 
 ### 💬 Feedback Components
 
@@ -81,8 +87,12 @@ A notification component for displaying temporary messages to users.
 * `duration`: `number` - Auto-dismiss time in milliseconds (default: 3000)
 
 **📸 Screenshots:**
-* **Screenshot 6**: Success toast with green styling
-* **Screenshot 7**: Fail toast with red styling
+Success toast with green styling:
+<img width="1280" height="800" alt="4" src="https://github.com/user-attachments/assets/7e602c00-b187-45f1-bf3f-310f13ee7b0d" />
+
+Fail toast with red styling:
+<img width="1280" height="800" alt="5" src="https://github.com/user-attachments/assets/43eb52a3-ad89-4785-a934-31bd4e61a467" />
+
 
 ### 🧭 Navigation Components
 
@@ -110,8 +120,12 @@ interface MenuItem {
 ```
 
 **📸 Screenshots:**
-* **Screenshot 1**: Sidebar in closed state showing "Open Sidebar" button
-* **Screenshot 2**: Sidebar opened with menu items visible
+Sidebar showing initially in open state. One level:
+<img width="1280" height="596" alt="6" src="https://github.com/user-attachments/assets/761acc59-32cb-407d-96f7-0c0106114621" />
+
+Sidebar with menu items, which is closed initially. Two levels:
+<img width="1280" height="587" alt="7" src="https://github.com/user-attachments/assets/810ea8bb-9860-42b2-82c4-40c393f72eb5" />
+
 
 ## 🎨 Styling
 
