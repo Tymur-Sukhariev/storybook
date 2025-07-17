@@ -59,6 +59,7 @@ A versatile input component that supports both text and password fields with add
 * `clearable`: `boolean` - Whether to show clear button
 
 **📸 Screenshots:**
+
 Password input with hidden text and eye icon:
 <img width="1280" height="564" alt="1" src="https://github.com/user-attachments/assets/f6d063b3-0500-4327-b600-80edf476a4a5" />
 
